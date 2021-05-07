@@ -1,0 +1,89 @@
+#school-logo {
+    height: 136px;
+    width: 141px;
+}
+
+h2 {
+    margin-bottom: 23 px;
+    margin-top: 157px;
+    color: #c20808;
+    text-align: center;
+}
+
+#academics, #to-grades, #faq {
+    margin-bottom: 50px;
+}
+
+h2.accordion-header {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.accordion-button {
+    font-weight: 700;
+    color: #343533d4;
+}
+
+.row {
+    height: 486px;
+    margin-left: 50px;
+}
+
+#first {
+    background-color: #a9d400eb;
+}
+
+nav.navbar {
+    margin-bottom: 50px;
+}
+
+.img-fluid {
+    margin-left: 25%;
+    margin-top: 205px;
+}
+
+#RedPine {
+    width: 60%;
+}
+
+.card {
+    margin-left: 50px;
+    margin-right: 30px;
+}
+
+.the-cards {
+    margin-left: 6%;
+    margin-top: 50px;
+}
+
+section.third {
+    margin: 127px 0px;
+}
+
+.card-title {
+    color: #bd0303;
+}
+
+a.btn {
+    font-weight: 400;
+}
+
+.btn:hover {
+    background-color: #bb0e0e;
+    color: #ffffff;
+    font-weight: 400;
+}
+
+#grades {
+    background-color: #e9ecef;
+    width: 60%;
+    height: 40%;
+    border: 2px solid;
+    margin-top: 50px;
+}
+
+footer {
+    color: #ffffff;
+    font-weight: 400;
+    margin-top: 100px;
+}
